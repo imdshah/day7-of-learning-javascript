@@ -3,7 +3,7 @@
 - Also learned about hoisting and scope.
 
 ## Functions in JavaScript
--Functions are reusable blocks of code designed to perform a specific task.
+- Functions are reusable blocks of code designed to perform a specific task.
 
 ## Hoisiting in JavaScript
 - Hoisting is JavaScript’s behavior of moving declarations to the top of their scope during the memory creation phase.
